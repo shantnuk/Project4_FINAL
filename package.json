@@ -1,0 +1,15 @@
+{
+    "name": "video-community-app",
+    "version": "1.0.0",
+    "description": "Simple Video Sharing Application",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "express": "^4.21.2",
+        "express-session": "^1.17.3",
+        "pug": "^3.0.2"
+    }
+}
