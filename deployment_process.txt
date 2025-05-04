@@ -1,0 +1,6 @@
+I decided to use Glitch to deploy my website since it was free and it seemed easy to use.
+I first imported my project files into this GitHub repo
+Then, I went into Glitch and created a blank Node project. I clicked on the option that said to import a GitHub repo.
+Once I clicked that option, all my files imported sucessfully. I was able to share the URL and access my webpage, meaning it was deployed.
+(Deployment URL)
+https://infrequent-scented-tachometer.glitch.me/auth/login
